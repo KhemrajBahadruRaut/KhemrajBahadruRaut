@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-focused Full-Stack Developer delivering secure, scalable, production-ready web applications<br>🧬 PHP & Node.js backend engineering with strong emphasis on API design and server-side validation<br> 
+Backend-focused Full-Stack Developer delivering secure, scalable, production-ready web applications<br> > PHP & Node.js backend engineering with strong emphasis on API design and server-side validation<br> 
 
 
 ## 🌐 Socials:
